@@ -11,3 +11,20 @@ h1.h1bodytitle{color: white;
                 text-align: center;}
 h1{color:white;
 text-align: center;}
+
+.button{color: rgb(255, 255, 0);
+font-size: 42px;
+padding: 17px;
+text-shadow: -11px -5px 6px rgba(255, 171, 30, 1);
+-webkit-border-radius: 86.35135135135134px;
+-moz-border-radius: 86.35135135135134px;
+border-radius: 86.35135135135134px;
+background: rgb(1, 6, 0);
+background: -moz-linear-gradient(325deg, rgb(1, 6, 0) 52%, rgb(38, 167, 40) 88%);
+background: -webkit-linear-gradient(325deg, rgb(1, 6, 0) 52%, rgb(38, 167, 40) 88%);
+background: -o-linear-gradient(325deg, rgb(1, 6, 0) 52%, rgb(38, 167, 40) 88%);
+background: -ms-linear-gradient(325deg, rgb(1, 6, 0) 52%, rgb(38, 167, 40) 88%);
+background: linear-gradient(235deg, rgb(1, 6, 0) 52%, rgb(38, 167, 40) 88%);
+-webkit-box-shadow: 32px 15px 30px rgba(157, 59, 36, 0.96);
+-moz-box-shadow:    32px 15px 30px rgba(157, 59, 36, 0.96);
+box-shadow:         32px 15px 30px rgba(157, 59, 36, 0.96);
